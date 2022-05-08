@@ -1,0 +1,12 @@
+.test {
+  background:repeating-radial-gradient(#365763,#3f6573 16%,#487484 32%,#518294 48%,#5a90a4 65%,#7ba7b7 82%,#6a9cae 100%),#518294;
+}
+
+.img-fluid,.img-thumbnail {
+  margin-left:25%;
+}
+
+#grad1 {
+  width: 100%;
+  background:repeating-radial-gradient(#365763,#3f6573 16%,#487484 32%,#518294 48%,#5a90a4 65%,#7ba7b7 82%,#6a9cae 100%),#518294;
+}
